@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/CryptoCurrencyWebUI/static/css/main.04e6ce10.css",
+    "main.js": "/CryptoCurrencyWebUI/static/js/main.0f458f64.js",
+    "static/media/about-img.png": "/CryptoCurrencyWebUI/static/media/about-img.ffc7e305fe684ff9bf92.png",
+    "static/media/slider-img.png": "/CryptoCurrencyWebUI/static/media/slider-img.778d023914e6d5992ec9.png",
+    "static/media/team-2.jpg": "/CryptoCurrencyWebUI/static/media/team-2.0194795373d652a20156.jpg",
+    "static/media/hero-bg.png": "/CryptoCurrencyWebUI/static/media/hero-bg.ca8bd401eac4682570d2.png",
+    "static/media/team-4.jpg": "/CryptoCurrencyWebUI/static/media/team-4.515e107ee0ebcb5aad23.jpg",
+    "static/media/team-1.jpg": "/CryptoCurrencyWebUI/static/media/team-1.05fb9ffb0dc0754d1dcd.jpg",
+    "static/media/team-3.jpg": "/CryptoCurrencyWebUI/static/media/team-3.574fcddf512824db3603.jpg",
+    "static/media/w4.png": "/CryptoCurrencyWebUI/static/media/w4.742caae5101d98ae2c49.png",
+    "static/media/s2.png": "/CryptoCurrencyWebUI/static/media/s2.9a6423499bb70633181f.png",
+    "static/media/w1.png": "/CryptoCurrencyWebUI/static/media/w1.2c1f7dadea3d96a17d40.png",
+    "static/media/w2.png": "/CryptoCurrencyWebUI/static/media/w2.05fb035424755a2112ed.png",
+    "static/media/s3.png": "/CryptoCurrencyWebUI/static/media/s3.42d631048e4fc35742ea.png",
+    "static/media/w3.png": "/CryptoCurrencyWebUI/static/media/w3.16130072fc0523df6fd9.png",
+    "static/media/s1.png": "/CryptoCurrencyWebUI/static/media/s1.f2753652a1ea3804d981.png",
+    "index.html": "/CryptoCurrencyWebUI/index.html",
+    "main.04e6ce10.css.map": "/CryptoCurrencyWebUI/static/css/main.04e6ce10.css.map",
+    "main.0f458f64.js.map": "/CryptoCurrencyWebUI/static/js/main.0f458f64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04e6ce10.css",
+    "static/js/main.0f458f64.js"
+  ]
+}
