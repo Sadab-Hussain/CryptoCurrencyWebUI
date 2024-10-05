@@ -105,8 +105,7 @@ const Footer = () => {
             <section className="footer_section">
                 <div className="container">
                     <p>
-                        &copy; <span id="displayYear"></span> All Rights Reserved By
-                        <Link to="https://html.design/">Free Html Templates</Link>
+                        &copy; <span id="displayYear"></span> All Rights Reserved By Sadab Hussain.
                     </p>
                 </div>
             </section>
